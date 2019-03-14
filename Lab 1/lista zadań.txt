@@ -1,0 +1,6 @@
+Ćwiczenie 1. Typy danych, operatory i instrukcje. Typy tablicowe i wskaźnikowe
+1.	Napisz Program który pobiera z klawiatury do tablicy 20 liczb całkowitych i wypisze te tablice.
+2.	Napisz funkcję która wyszukaj w tablicy liczb całkowitych pierwszą wielokrotność liczby zadanej jako parametr funkcji a wynik to indeks znalezionej liczby
+3.	Napisz Program w którym użyjesz napisanej funkcji parametry do programu podaj z wiersza poleceń
+4.	Napisz funkcję z punktu 2 z użyciem arytmetyki wskaźnikowej
+5.	Napisz program który zrealizuje Natural sort order
